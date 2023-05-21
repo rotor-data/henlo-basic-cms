@@ -2,14 +2,14 @@
 id: JUJDCFVbWC
 type: page
 layout: page-builder
-title: Home Page
+title: Testar något annat här
 permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    title: Henlo.
+    title: Testar något annat här.
     content: |-
-      ## The most advanced starter for Gatsby & Netlify CMS.
+      ## Så ser vi om det blir fint.
 
       Extensible, block based starter for Netlify CMS.\
       Built with performance in mind, styled with TailwindCSS.
